@@ -6,7 +6,7 @@ This GitHub is my launchpad for:
 - 🚀 **Mobile app experiments:** iOS, and cross-platform tinkering
 - 🌐 **Full-stack trials:** web frontends, APIs, and the odd server mishap
 - 🛠️ Random ideas that *might* work… eventually
-- 💥 A healthy dose of trial & error (emphasis on error)
+- 💥 A healthy dose of trial & error
 
 ---
 
@@ -19,9 +19,3 @@ This GitHub is my launchpad for:
 
 My professional work lives at my [other GitHub](https://github.com/jenniylisirnio), though all of it is private due to company projects.
 This one’s for exploration, learning, and having fun in the coding cosmos. 🌌
-
----
-
-## 📡 Transmission
-Feel free to explore the repos, fork something, or just enjoy the ride.
-And remember: in space (and in coding), failure is just part of the mission. 😉
